@@ -15,7 +15,7 @@ app.get('/ride1',(req,res)=>{
 })
 app.get('/ride2',(req,res)=>{
                res.send('you rode the secondd ride');
-})
+})             
 app.get('/ride3',(req,res)=>{
                res.send('you rode the third ride')
 })
