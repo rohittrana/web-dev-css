@@ -7,3 +7,6 @@
 (aurcode=(name)=>{
                console.log(`dbconnected two ${name}`);
 })("rohit"); 
+(function chaitwo(){
+               console.log("db connect ");
+})();
